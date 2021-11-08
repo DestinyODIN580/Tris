@@ -1,2 +1,4 @@
-# Tris
-Simple console Tris game
+
+# Tris  
+
+- Simple console game
