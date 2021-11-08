@@ -33,6 +33,7 @@ int system (const char *);
 
 int xCheck (int, int);
 int oCheck (int, int);
+
 void table (void);
 void menu (void);
 
